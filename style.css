@@ -1,1 +1,28 @@
+body{
+}
 
+.main{
+    margin: 0 auto;
+}
+
+.colors{
+    border: 1px solid gray;
+}
+
+.color{
+    display: inline-block;
+    width: 200px;
+    text-align: center;
+}
+
+.seagreen{
+    background-color: #2E8B57;
+}
+
+.lightblue{
+    background: #ADD8E6;
+}
+
+.darkorcid{
+    background-color: #9932CC;
+}
